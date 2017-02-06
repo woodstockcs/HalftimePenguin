@@ -15,6 +15,6 @@ In this project you will add some simple animation to your MyPenguin project, li
 
 ### H Block: Extra Instruction
 Also implement at least one of these:
-* make your penguin blink (think about variables, if blocks, and 60 frames per second)
+* make the eyes on your penguin blink (think about variables, if blocks, and 60 frames per second)
 * in addition to the animations above, make your whole penguin move around the window and bounce when it hits an edge
 
