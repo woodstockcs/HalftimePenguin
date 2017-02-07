@@ -13,7 +13,7 @@ In this project you will add some simple animation to your MyPenguin project, li
 1. Repeat the previous two steps, to create a second animation.
 1. When you're done: fork this repo, paste your code into the `.pde` file, and create a pull request.
 
-### H Block: Extra Instruction
+### B Block: Extra Instruction
 Also implement at least one of these:
 * make the eyes on your penguin blink (think about variables, if blocks, and 60 frames per second)
 * in addition to the animations above, make your whole penguin move around the window and bounce when it hits an edge
