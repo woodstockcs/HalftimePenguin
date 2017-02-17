@@ -11,9 +11,9 @@ void draw()
   
   // penguin body
   fill(50, 50, 50);
-  ellipse(300, 300, 100, 200);
+  ellipse(x, 300, 100, 200);
   fill(255, 255, 255);
-  ellipse(300, 300, 50, 100);
+  ellipse(x, 300, 50, 100);
   
   // arms
   fill(50, 50, 50);
@@ -31,10 +31,12 @@ void draw()
   }
   // head
   ellipse(300, 200, 75, 75);
-  ellipse(285, 195, 15, 15);
-  ellipse(315, 195, 15, 15);
-  ellipse(285, 195, 2, 2);
-  ellipse(315, 195, 2, 2);
+  ellipse(285, 195, 20, 20);
+  ellipse(315, 195, 20, 20);
+  fill(random(255), random(255), random(255));
+  ellipse(285, 195, 10, 10);
+  ellipse(315, 195, 10, 10);
+  fill(50, 50, 50);
   triangle(290, 200, 310, 200, 300, 230);
   
   // feet
