@@ -1,3 +1,9 @@
+ //Sam Powers- Penguin
+ 
+int y = 450;
+int counter = 1;
+int x = 50;
+
 void setup ()
 {
   size(500, 500);
@@ -5,13 +11,11 @@ void setup ()
   background(255);
   frameRate = (1);
 }
-int y = 450;
-int counter = 1;
-int x = 50;
+
 
 void draw()
 {
- //Sam Powers- Penguin
+
  
 //Background
 background(255); 
